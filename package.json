@@ -1,6 +1,6 @@
 {
   "name": "ink-ascii-image",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Image to ASCII in Ink apps, using ascii-art-image",
   "main": "out/Image.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git+ssh://git@github.com/aeonfr/ink-ascii-image.git"
   },
-  "keywords": ["ink", "ink-component", "image", "ascii"],
+  "keywords": [
+    "ink",
+    "ink-component",
+    "image",
+    "ascii"
+  ],
   "author": "Francisco Brusa",
   "license": "MIT",
   "bugs": {
