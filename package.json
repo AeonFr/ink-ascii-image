@@ -11,12 +11,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/aeonfr/ink-ascii-image.git"
   },
-  "keywords": [
-    "ink",
-    "react",
-    "image",
-    "ascii"
-  ],
+  "keywords": ["ink", "ink-component", "image", "ascii"],
   "author": "Francisco Brusa",
   "license": "MIT",
   "bugs": {
