@@ -1,6 +1,6 @@
 {
 	"name": "ink-ascii-image",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "Image to ASCII in Ink apps, using ascii-art-image",
 	"main": "out/Image.js",
 	"scripts": {
