@@ -34,7 +34,7 @@ export const Image: React.FC<Props> = ({
       filepath: filePath,
       alphabet,
       width,
-      height,
+      height: height * 2,
     });
     image.write((err, rendered) => {
       if (err) {
