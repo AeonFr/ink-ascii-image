@@ -1,0 +1,38 @@
+{
+	"name": "ink-ascii-image",
+	"version": "0.0.1",
+	"description": "Image to ASCII in Ink apps, using ascii-art-image",
+	"main": "out/Image.js",
+	"scripts": {
+		"build": "tsc",
+		"prepublish": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/aeonfr/ink-ascii-image.git"
+	},
+	"keywords": [
+		"ink",
+		"react",
+		"image",
+		"ascii"
+	],
+	"author": "Francisco Brusa",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/aeonfr/ink-ascii-image/issues"
+	},
+	"homepage": "https://github.com/aeonfr/ink-ascii-image#readme",
+	"dependencies": {
+		"ascii-art-ansi": "^1.4.1",
+		"ascii-art-image": "^1.4.0",
+		"@types/node": "^16.4.12",
+		"@types/react": "^17.0.15"
+	},
+	"devDependencies": {
+		"typescript": "^4.3.5"
+	},
+	"peerDependencies": {
+		"react": "^17.0.2"
+	}
+}

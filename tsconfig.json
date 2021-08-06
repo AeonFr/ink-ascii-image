@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"jsx": "react",
+		"esModuleInterop": true,
+		"declaration": true,
+		"module": "commonjs",
+		"outDir": "out",
+		"sourceMap": true,
+		"moduleResolution": "node"
+	},
+	"include": ["src/**/*"]
+}
